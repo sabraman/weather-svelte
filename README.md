@@ -12,7 +12,3 @@ A beautiful weather dashboard
 - Vite (build tool)
 - Typescript
 - Svelte Lottie Player: [lottiefiles.com](https://lottiefiles.com/)
-
-## Original Design
-
-[Design on Dribble](https://dribbble.com/shots/10460680-Weather-App)
